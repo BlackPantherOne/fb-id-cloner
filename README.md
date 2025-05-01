@@ -11,6 +11,6 @@ This is a **Python-based Facebook ID Cloning Simulator** for educational or ente
 ## Installation (Termux or Linux)
 ```bash
 pkg install python -y
-git clone https://github.com/YOURUSERNAME/fb-id-cloner.git
+git clone https://github.com/BlackPantherOne/fb-id-cloner.git
 cd fb-id-cloner
 python fb_cloner.py
